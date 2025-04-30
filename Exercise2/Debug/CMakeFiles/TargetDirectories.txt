@@ -1,8 +1,0 @@
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/CMakeFiles/Sorting2.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/CMakeFiles/Sorting2_TEST.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/CMakeFiles/rebuild_cache.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/src/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/src/CMakeFiles/rebuild_cache.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/src_test/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Data/ESERCITAZIONE_6/esercizi/Exercise2 (2)/Debug/src_test/CMakeFiles/rebuild_cache.dir
